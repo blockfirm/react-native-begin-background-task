@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "React Native wrapper for beginBackgroundTask, iOS only",
   "main": "index.js",
-  "repository": "https://github.com/ivanzotov/react-native-begin-background-task",
+  "repository": "https://github.com/blockfirm/react-native-begin-background-task",
   "keywords": [
     "react-native",
     "ios",
